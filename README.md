@@ -1,16 +1,19 @@
-## Hi there 👋
+# 你好，我是 无敌小霸王👋
 
-<!--
-**zijun122/zijun122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我正在系统学习软件工程与 AI 技术，关注如何把业务问题转化为可以实现、验证和持续改进的技术方案。
 
-Here are some ideas to get you started:
+## 当前方向
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 探索商业需求与 AI 技术实现的结合
+- 训练 Git、HTTP、API、JSON 与 Web 开发基础
+- 用可追踪的项目记录学习过程和工程实践
+
+## 代表项目
+
+- [Learning Lab](https://github.com/zijun122/Learning-Lab)：记录 90 天专业学期的学习成果、实践项目和版本演进
+
+## 未来 90 天
+
+- 完成系统课程与工程实验
+- 建立一组结构清楚、过程可追踪、结果可验证的项目
+- 持续复盘，并将学习成果转化为实际解决问题的能力
